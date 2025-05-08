@@ -12,7 +12,7 @@ This Chrome extension allows you to easily save and manage website links. Whethe
 
 ## How to Install
 
-1.  Download the extension files (you'll likely have `manifest.json`, `index.html`, `index.js`, and `index.css`).
+1.  Download the extension files
 2.  Open Google Chrome and navigate to `chrome://extensions/`.
 3.  Enable "Developer mode" in the top right corner.
 4.  Click the "Load unpacked" button in the top left corner.
